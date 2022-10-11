@@ -235,6 +235,10 @@ img {
     font-size: 0.9rem;
 }
 
+.footer a:hover {
+    color: rgb(255, 255, 255);
+}
+
 .footer p {
     margin: 1.5rem;
 }
